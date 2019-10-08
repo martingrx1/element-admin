@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1bc0"],{"7c64":function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{attrs:{id:"news-page"}},[t._v("this is news page\n  "),e("button",{on:{click:t.getData}},[t._v("获取数据")])])},c=[],s=e("4667"),a={methods:{getData:function(){s["a"].get("http://route.showapi.com/news").then(function(t){console.log(t)})}}},i=a,u=e("2877"),l=Object(u["a"])(i,o,c,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0e1bc0.ec0c580c.js.map
